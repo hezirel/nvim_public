@@ -1,0 +1,7 @@
+mason
+.netrwbook
+.netrwhist
+Session.vim
+lazy-lock.json
+telescope_history
+.luarc.json
